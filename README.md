@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matvii Jarosh
-- 👀 I’m interested in creating libraries and FLV player in C++
+- 👀 I’m interested in creating soft
 - 📫 How to reach me matviijarosh@gmailc.com
 - ⚡ Fun fact: I learned as2 in 1 morning
 
